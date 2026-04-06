@@ -1,0 +1,16 @@
+"repo","avg_workload","avg_commits_High-intensity burst","avg_commits_Low-activity maintenance","avg_commits_Normal feature development","n_High-intensity burst","n_Low-activity maintenance","n_Normal feature development"
+"django",66.45,7.65,0,0,49,0,0
+"django",30.21,0,3.84,0,0,51,0
+"django",67,0,0,7.7,0,0,84
+"flask",69.29,7.97,0,0,35,0,0
+"flask",28.95,0,3.78,0,0,97,0
+"flask",67.16,0,0,7.79,0,0,42
+"numpy",71.68,8.21,0,0,38,0,0
+"numpy",23.39,0,3.22,0,0,78,0
+"numpy",70.66,0,0,8.08,0,0,52
+"requests",72.13,8.29,0,0,21,0,0
+"requests",27.41,0,3.66,0,0,103,0
+"requests",68.91,0,0,8,0,0,45
+"scikit-learn",70.76,8.13,0,0,23,0,0
+"scikit-learn",26.49,0,3.58,0,0,105,0
+"scikit-learn",73.33,0,0,8.41,0,0,34
